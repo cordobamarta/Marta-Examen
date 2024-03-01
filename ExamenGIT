@@ -1,136 +1,24 @@
 Este es el commit del main que deberá ser sustituidos por las versiones futuras, elimina esto cuando surjan conflictos con el examen A y el examen B. 
 
+Contesta la pregunta y realiza un commit a la rama correspondiente a la pregunta (examenA o examenB).
 
+PREGUNTA B - Explica los cuatro "lugares" donde pueden encontrarse los archivos que forman parte de un repositorio GIT. Nombra el comando para mover un archivo de un espacio a otro con la siguiente sintaxys: [LugarInicial - LugarFinal => comando]
 
+- Los lugares donde pueden encontrarse los archivos de git son: en nuestro repositorio local es decir en el repositorio de nuestro ordenador, en un repositorio remoto, en el directorio 
+de trabajo que estara en nuestro ordenador o en el area donde se preparan los archivos, Area de preparación.
 
+- git merge [commit 1] + [commit 2] - la información estara toda en segundo commit 2.
 
 
+PREGUNTA A - Explica con tus propias palabras qué es y cómo funciona git. Para ello define y explica la función de los elementos que lo forman: (commit, branch, tree, blob). 
 
+- Git: es un entorno del desarrollo de control de versiones en el cual trabajamos con diferentes repositorios y nos dan la oportunidad de trabajar tambien con repositorios remotos.
 
+- Commit: es un objeto que guarda contiene informacion de una copia de una version del proyecto.
 
+- Branch: es una rama de trabajo, en la cual podemos trabajar de manera independiente a otras ramas, y crear varias versiones de un mismo proyecto
 
+- Tree: es la estructura, es forma de arbol, de ahi el nombre, que contiene todo el trabajo, es decir es esquema conceptual de todo nuestro proyecto
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Blob: es un objeto que contiene información. 
 
